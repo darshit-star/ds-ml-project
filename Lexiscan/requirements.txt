@@ -1,0 +1,6 @@
+spacy
+pdf2image
+pytesseract
+fastapi
+uvicorn
+pytest
